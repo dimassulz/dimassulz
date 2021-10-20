@@ -4,7 +4,7 @@
  
 Full Stack Developer and Teacher 👩‍💻
  
-Lover of Technology, Financial market, Teaching and Coding 💓
+Lover of Technology, Financial market, Teaching and Coding
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dimassulz)](https://github.com/dimassulz)
