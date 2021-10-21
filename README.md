@@ -4,7 +4,7 @@
  
 Full Stack Developer and Teacher 👩‍💻
  
-Lover of Technology, Financial market, Teaching and Coding
+Lover of Technology, Financial market, Teaching and Coding 💻🎓📚💲
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dimassulz)](https://github.com/dimassulz)
@@ -14,7 +14,10 @@ Lover of Technology, Financial market, Teaching and Coding
 [![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=dimassulz)](https://github.com/dimassulz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimassulz&layout=compact)](https://github.com/dimassulz/github-readme-stats)
 
-
+## 🚀 Certifications
+<a href="https://www.zend-zce.com/en/yellow-pages/ZEND027852" target="_blank"><img height="60" src="https://www.zend-zce.com/static-assets/img/zcedirectory/ZCPE-logo-XS.jpg"></a>
+<code><img height="60" src="https://images.credly.com/size/340x340/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png"></code>
+<code><img height="60" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/products/Scrum-Foundation-Professional-Certificate-SFPC_480x480.png?v=1612192643"></code>
 ## 👩‍💻 Languages | Frameworks | Tools
 
 <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
