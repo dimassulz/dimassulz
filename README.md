@@ -69,5 +69,5 @@ Currently enjoying technology, coding, teaching, financial market and wine's :ma
 <code><img height="20" src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white"></code>
 
 ## 📊 Status:
-[![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=dimassulz)](https://github.com/dimassulz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimassulz&layout=compact)](https://github.com/dimassulz/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimassulz&label=Profile%20views&color=0e75b6&style=flat" alt="dimassulz" /> </p>
