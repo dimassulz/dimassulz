@@ -2,19 +2,13 @@
 
 ## I'm Dimas Sulz!!
  
-Full Stack Developer and Teacher IT 
- 
-Currently enjoying technology, coding, teaching, financial market and wine's :man_technologist: 💻:man_teacher:📚:chart_with_upwards_trend::wine_glass:
+Currently enjoying technology, coding, appsec and teaching.
 
 ## 👨 About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dimassulz)](https://github.com/dimassulz)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dimas-sulz)](https://www.linkedin.com/in/dimas-sulz)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dimassulz@gmail.com)](mailto:dimassulz@gmail.com)
 
-## 🚀 Certifications
-<a href="https://www.zend-zce.com/en/yellow-pages/ZEND027852" target="_blank"><img height="60" src="https://www.zend-zce.com/static-assets/img/zcedirectory/ZCPE-logo-XS.jpg"></a>
-<code><img height="60" src="https://images.credly.com/size/340x340/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png"></code>
-<code><img height="60" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/products/Scrum-Foundation-Professional-Certificate-SFPC_480x480.png?v=1612192643"></code>
 ## 👩‍💻 Languages | Frameworks | Tools
 
 <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
@@ -52,9 +46,7 @@ Currently enjoying technology, coding, teaching, financial market and wine's :ma
 
 ## 📱 Mobile Frameworks
 
-<code><img height="20" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8"></code>
 
 ## 💻 IDE
 
@@ -62,12 +54,6 @@ Currently enjoying technology, coding, teaching, financial market and wine's :ma
 <code><img height="20" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></code>
 <code><img height="20" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"></code>
 
-## 💲 Crypto Enthusiast
-
-<code><img height="20" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white"></code>
 
 ## 📊 Status:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimassulz&layout=compact)](https://github.com/dimassulz/github-readme-stats)
